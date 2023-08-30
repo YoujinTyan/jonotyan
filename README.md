@@ -32,7 +32,8 @@ You can read about my experience on LinkedIn:
 
 <details><summary><h2>Some of my work</h2></summary>
 
-   1. ![My portfolio](https://github.com/jonotyan)&nbsp;
+<a href="https://github.com/jonotyan" target="_blank" rel="noreferrer"> 
+<img src="./icons/about_me.gif" alt="ame" width="45" height="45"/> </a>
 
 </details>
 
