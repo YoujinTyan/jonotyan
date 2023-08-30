@@ -45,51 +45,40 @@ You can read about my experience on LinkedIn:
 
 <p align="center">
 
-<details><summary><h2>**Languages**</h2></summary>
+<details><summary><h2>Languages</h2></summary>
 
    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 </details>
 
-<br> 
-
-<details><summary><h2>**Front-End Development**</h2></summary>
+<details><summary><h2>Front-End Development</h2></summary>
 
    ![Python]()&nbsp;
    ![JavaScript]()&nbsp;
 
 </details>
 
-<br> 
-
-<details><summary><h2>**Back-End Development**</h2></summary>
+<details><summary><h2>Back-End Development</h2></summary>
 
    ![Python]()&nbsp;
    ![JavaScript]()&nbsp;
 
 </details>
 
-<br> 
-
-<details><summary><h2>**Softwares and Tools**</h2></summary>
+<details><summary><h2>Softwares and Tools</h2></summary>
 
    ![Python]()&nbsp;
    ![JavaScript]()&nbsp;
 
 </details>
 
-<br> 
-
-<details><summary><h2>**Extras**</h2></summary>
+<details><summary><h2>Extras</h2></summary>
 
    ![Python]()&nbsp;
    ![JavaScript]()&nbsp;
 
 </details>
-
-<br> 
-<br>
 
 -----
 
