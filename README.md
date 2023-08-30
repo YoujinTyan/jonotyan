@@ -12,11 +12,11 @@ My experience includes developing CRM systems, Telegram bots, online shops and l
 Revenge is a hobby. I teach programming to teenagers and motivate them to learn.
 
 <a href="" target="_blank" rel="noreferrer"> 
-<img src="icons/python" alt="python" width="40" height="40"/> </a>
+<img src="https://github.com/jonotyan/jonotyan/tree/main/icons/python" alt="python" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> 
-<img src="icons/react" alt="react" width="40" height="40"/> </a>
+<img src="https://github.com/jonotyan/jonotyan/tree/main/icons/react" alt="react" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> 
-<img src="icons/bootstrap" alt="bootstrap" width="40" height="40"/> </a>
+<img src="https://github.com/jonotyan/jonotyan/tree/main/icons/bootstrap" alt="bootstrap" width="40" height="40"/> </a>
 
 You can read about my experience on LinkedIn:
 [@Eugene Tyan](https://www.linkedin.com/in/eugene-tyan/)
