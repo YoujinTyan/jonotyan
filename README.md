@@ -54,29 +54,48 @@ You can read about my experience on LinkedIn:
 
 <details><summary><h2>Front-End Development</h2></summary>
 
-   ![Python]()&nbsp;
-   ![JavaScript]()&nbsp;
+   ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
+   ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)&nbsp;
+   ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)&nbsp;
+   ![VueJS](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)&nbsp;
+   ![Vuetify](![React]()&nbsp;)&nbsp;
+   ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)&nbsp;
 
 </details>
 
 <details><summary><h2>Back-End Development</h2></summary>
 
-   ![Python]()&nbsp;
-   ![JavaScript]()&nbsp;
+   ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)&nbsp;
+   ![ASP.NET]()&nbsp;
+   ![Express.js](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)&nbsp;
 
 </details>
 
 <details><summary><h2>Softwares and Tools</h2></summary>
 
-   ![Python]()&nbsp;
-   ![JavaScript]()&nbsp;
+   ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)&nbsp;
+   ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)&nbsp;
+   ![Open server]()&nbsp;
+   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)&nbsp;
+   ![Windows](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white)&nbsp;
+   ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)&nbsp;
+   ![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
+   ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
+   ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)&nbsp;
+   ![NGINX](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)&nbsp;
+   ![GPT API]()&nbsp;
+   ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)&nbsp;
 
 </details>
 
-<details><summary><h2>Extras</h2></summary>
+<details><summary><h2>Databases</h2></summary>
 
-   ![Python]()&nbsp;
-   ![JavaScript]()&nbsp;
+   ![SQLite]()&nbsp;
+   ![PostgreSQL]()&nbsp;
+   ![MS SQL Server]()&nbsp;
+   ![MongoDB]()&nbsp;
 
 </details>
 
