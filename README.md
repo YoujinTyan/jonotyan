@@ -45,14 +45,14 @@ You can read about my experience on LinkedIn:
 
 <p align="center">
 
-<details><summary><h2>Languages</h2></summary>
+<details><summary><h3>Languages</h3></summary>
 
    ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
 
 </details>
 
-<details><summary><h2>Front-End Development</h2></summary>
+<details><summary><h3>Front-End Development</h3></summary>
 
    ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
    ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
@@ -70,7 +70,7 @@ You can read about my experience on LinkedIn:
 
 </details>
 
-<details><summary><h2>Back-End Development</h2></summary>
+<details><summary><h3>Back-End Development</h3></summary>
 
    ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)&nbsp;
    ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
@@ -78,7 +78,7 @@ You can read about my experience on LinkedIn:
 
 </details>
 
-<details><summary><h2>Softwares and Tools</h2></summary>
+<details><summary><h3>Softwares and Tools</h3></summary>
 
    ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)&nbsp;
    ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
@@ -110,7 +110,7 @@ You can read about my experience on LinkedIn:
 
 </details>
 
-<details><summary><h2>Databases</h2></summary>
+<details><summary><h3>Databases</h3></summary>
 
    ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)&nbsp;
    ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)&nbsp; <br>
@@ -124,17 +124,17 @@ You can read about my experience on LinkedIn:
 <br>
 
 
-## <img src="./icons/social.png" width="35"><b> Contact me </b>
+## Contact me 
 <br>
 
 <div align="center">
 
 <a href="https://t.me/tyan_io" target="_blank" rel="noreferrer"> 
-<img src="./icons/tg,png" alt="python" width="60" height="60"/> </a>
+<img src="./icons/tg,png" alt="telegram" width="60" height="60"/> </a>
 <a href="" target="_blank" rel="noreferrer"> 
-<img src="./icons/insta.png" alt="react" width="60" height="60"/> </a>
+<img src="./icons/insta.png" alt="insta" width="60" height="60"/> </a>
 <a href="" target="_blank" rel="noreferrer"> 
-<img src="./icons/linkedin.png" alt="bootstrap" width="60" height="60"/> </a>
+<img src="./icons/linkedin.png" alt="linkedin" width="60" height="60"/> </a>
 
 </div>
 
