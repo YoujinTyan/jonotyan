@@ -11,8 +11,8 @@ I'm currently learning React.js and UX/UI.
 My experience includes developing CRM systems, Telegram bots, online shops and landing page websites.
 Revenge is a hobby. I teach programming to teenagers and motivate them to learn.
 
-<a href="https://icons8.ru/icon/CMVEhOBzk3Zp/html-5" target="_blank" rel="noreferrer"></a>
-
+<a href="" target="_blank" rel="noreferrer"> 
+<img src="https://icons8.ru/icon/CMVEhOBzk3Zp/html-5" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> </a>
 
 You can read about my experience on LinkedIn:
 [@Eugene Tyan](https://www.linkedin.com/in/eugene-tyan/)
