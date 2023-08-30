@@ -12,14 +12,17 @@ My experience includes developing CRM systems, Telegram bots, online shops and l
 Revenge is a hobby. I teach programming to teenagers and motivate them to learn.
 
 <a href="" target="_blank" rel="noreferrer"> 
-<img src="https://icons8.ru/icon/CMVEhOBzk3Zp/html-5" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> </a>
+<img src="icons/python" alt="python" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> 
+<img src="icons/react" alt="react" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> 
+<img src="icons/bootstrap" alt="bootstrap" width="40" height="40"/> </a>
 
 You can read about my experience on LinkedIn:
 [@Eugene Tyan](https://www.linkedin.com/in/eugene-tyan/)
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-<img src="https://githubraw.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> </a>
+  
 
 <br><br><br><br>
 
