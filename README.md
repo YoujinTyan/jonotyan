@@ -32,7 +32,7 @@ You can read about my experience on LinkedIn:
 
 <details><summary><h2>Some of my work</h2></summary>
 
-   1. ![My portfolio] (https://github.com/jonotyan)
+   1. ![My portfolio](https://github.com/jonotyan)&nbsp;
 
 </details>
 
