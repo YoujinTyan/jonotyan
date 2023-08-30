@@ -12,7 +12,7 @@ My experience includes developing CRM systems, Telegram bots, online shops and l
 Revenge is a hobby. I teach programming to teenagers and motivate them to learn.
 
 <a href="" target="_blank" rel="noreferrer"> 
-<img src="./icons/python" alt="python" width="40" height="40"/> </a>
+<img src="./icons/python.svg" alt="python" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> 
 <img src="./icons/react" alt="react" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> 
