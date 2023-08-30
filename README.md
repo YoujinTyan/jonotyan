@@ -8,7 +8,7 @@
 
 
 
-  <img align="right" width="470" height="344" src="https://github.com/jonotyan/jonotyan/blob/main/images/bio.png">
+  <img align="right" width="470" height="444" src="https://github.com/jonotyan/jonotyan/blob/main/images/bio.png">
 
 
 
