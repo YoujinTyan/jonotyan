@@ -1,14 +1,8 @@
-
-
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-
-
-
-  <img align="right" width="470" height="390" src="https://github.com/jonotyan/jonotyan/blob/main/images/bio.png">
+<img align="right" width="470" height="390" src="https://github.com/jonotyan/jonotyan/blob/main/images/bio.png">
 
 
 
