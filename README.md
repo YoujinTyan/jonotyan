@@ -127,21 +127,17 @@ You can read about my experience on LinkedIn:
 ## Contact me 
 <br>
 
-<div align="center">
+<div align="left">
 
 <a href="https://t.me/tyan_io" target="_blank" rel="noreferrer"> 
-<img src="./icons/tg,png" alt="telegram" width="60" height="60"/> </a>
+<img src="./icons/tg.png" alt="telegram" width="45" height="45"/> </a>
 <a href="" target="_blank" rel="noreferrer"> 
-<img src="./icons/insta.png" alt="insta" width="60" height="60"/> </a>
+<img src="./icons/insta.png" alt="insta" width="45" height="45"/> </a>
 <a href="" target="_blank" rel="noreferrer"> 
-<img src="./icons/linkedin.png" alt="linkedin" width="60" height="60"/> </a>
+<img src="./icons/linkedin.png" alt="linkedin" width="45" height="45"/> </a>
 
 </div>
 
-<br>
-<br>
-
------
               
 
 
