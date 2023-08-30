@@ -59,10 +59,19 @@ You can read about my experience on LinkedIn:
 
 <a href="https://t.me/tyan_io" target="_blank" rel="noreferrer"> 
 <img src="./icons/tg.png" alt="telegram" width="45" height="45"/> </a>
-<a href="" target="_blank" rel="noreferrer"> 
+<a href="https://www.instagram.com/eugene.tyan" target="_blank" rel="noreferrer"> 
 <img src="./icons/insta.png" alt="insta" width="45" height="45"/> </a>
-<a href="" target="_blank" rel="noreferrer"> 
+<a href="https://www.linkedin.com/in/eugene-tyan" target="_blank" rel="noreferrer"> 
 <img src="./icons/linkedin.png" alt="linkedin" width="45" height="45"/> </a>
+
+|
+
+<a href="https://t.me/openlakekz" target="_blank" rel="noreferrer"> 
+<img src="./icons/channel.png" alt="telegram-channel" width="45" height="45"/> </a>
+<a href="https://www.tiktok.com/@open.lake" target="_blank" rel="noreferrer"> 
+<img src="./icons/tiktok.png" alt="tiktok" width="45" height="45"/> </a>
+<a href="https://t.me/openlakekz" target="_blank" rel="noreferrer"> 
+<img src="./icons/notion.png" alt="notion" width="45" height="45"/> </a>
 
 </div>
 
