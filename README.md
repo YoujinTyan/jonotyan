@@ -16,7 +16,7 @@ Revenge is a hobby. I teach programming to teenagers and motivate them to learn.
 <a href="" target="_blank" rel="noreferrer"> 
 <img src="./icons/react" alt="react" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/jonotyan/jonotyan/tree/main/icons/bootstrap" alt="bootstrap" width="40" height="40"/> </a>
+<img src="https://github.com/jonotyan/jonotyan/tree/main/icons/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 You can read about my experience on LinkedIn:
 [@Eugene Tyan](https://www.linkedin.com/in/eugene-tyan/)
