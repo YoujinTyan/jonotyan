@@ -16,10 +16,10 @@ Revenge is a hobby. I teach programming to teenagers and motivate them to learn.
 You can read about my experience on LinkedIn:
 [@Eugene Tyan](https://www.linkedin.com/in/eugene-tyan/)
 <br><br><br><br><br><br>
----
+
 
 <details><summary><h1>Some of my work</h1></summary>
-
+---
    1. First
    2. Second
    3. etc
