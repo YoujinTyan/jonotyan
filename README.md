@@ -15,7 +15,12 @@ Revenge is a hobby. I teach programming to teenagers and motivate them to learn.
 
 You can read about my experience on LinkedIn:
 [@Eugene Tyan](https://www.linkedin.com/in/eugene-tyan/)
-<br><br><br><br><br><br>
+
+# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+<img src="https://githubraw.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> </a>
+
+<br><br><br><br>
 
 ---
 
