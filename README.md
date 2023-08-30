@@ -2,8 +2,6 @@
 
 <img align="right" width="470" height="390" src="https://github.com/jonotyan/jonotyan/blob/main/images/bio.png">
 
-<img align="right" width="470" height="390" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/buymeacoffee/buymeacoffee-official.svg">
-
 
 
 I like building structures and I like user-friendly, beautiful interfaces. 
@@ -12,6 +10,8 @@ My goal is to create usable and interesting web applications, so that cool proje
 I'm currently learning React.js and UX/UI.
 My experience includes developing CRM systems, Telegram bots, online shops and landing page websites.
 Revenge is a hobby. I teach programming to teenagers and motivate them to learn.
+
+<a href="https://icons8.ru/icon/CMVEhOBzk3Zp/html-5" target="_blank" rel="noreferrer"></a>
 
 
 You can read about my experience on LinkedIn:
