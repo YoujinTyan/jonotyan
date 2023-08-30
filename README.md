@@ -19,7 +19,7 @@ You can read about my experience on LinkedIn:
 
 ---
 
-<details><summary><h1>Some of my work</h1></summary>
+<details><summary><h2>Some of my work</h2></summary>
 
    1. First
    2. Second
