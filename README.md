@@ -11,11 +11,13 @@ I'm currently learning React.js and UX/UI.
 My experience includes developing CRM systems, Telegram bots, online shops and landing page websites.
 Revenge is a hobby. I teach programming to teenagers and motivate them to learn.
 
-<a href="" target="_blank" rel="noreferrer"> 
+## My main stack
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
 <img src="./icons/python.svg" alt="python" width="60" height="60"/> </a>
-<a href="" target="_blank" rel="noreferrer"> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
 <img src="./icons/react.svg" alt="react" width="60" height="60"/> </a>
-<a href="" target="_blank" rel="noreferrer"> 
+<a href="https://react-bootstrap.netlify.app/" target="_blank" rel="noreferrer"> 
 <img src="./icons/bootstrap.svg" alt="bootstrap" width="60" height="60"/> </a>
 
 You can read about my experience on LinkedIn:
