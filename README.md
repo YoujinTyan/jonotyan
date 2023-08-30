@@ -2,7 +2,7 @@
 
 <img align="right" width="470" height="390" src="https://github.com/jonotyan/jonotyan/blob/main/images/bio.png">
 
-
+https://www.vectorlogo.zone/util/preview.html?image=/logos/buymeacoffee/buymeacoffee-official.svg
 
 
 I like building structures and I like user-friendly, beautiful interfaces. 
