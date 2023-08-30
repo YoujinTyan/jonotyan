@@ -1,5 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 ## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" width="470" height="390" src="https://github.com/jonotyan/jonotyan/blob/main/images/bio.png">
@@ -15,10 +13,12 @@ My experience includes developing CRM systems, Telegram bots, online shops and l
 Revenge is a hobby. I teach programming to teenagers and motivate them to learn.
 
 
-You can find some of my work 
+You can read about my experience on [Linkedin](https://www.linkedin.com/in/eugene-tyan/)
+You can find some of my work
+https://gists-readme.yizack.com/api?user={jonotyan}
 
 ---
-### You can sponsor my work through [GitHub sponsors.](https://github.com/sponsors/MarketingPipeline)
+### You can sponsor my work through 
 
 
 Cheers!   <img width="20" height="20" src="https://static.wikia.nocookie.net/southpark/images/c/ca/PhillipPip.png/revision/latest/scale-to-width-down/350?cb=20171020035739">
