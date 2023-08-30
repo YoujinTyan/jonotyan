@@ -13,7 +13,8 @@ My experience includes developing CRM systems, Telegram bots, online shops and l
 Revenge is a hobby. I teach programming to teenagers and motivate them to learn.
 
 
-You can read about my experience on [Linkedin](https://www.linkedin.com/in/eugene-tyan/)
+You can read about my experience on LinkedIn:
+[@Eugene Tyan](https://www.linkedin.com/in/eugene-tyan/)
 <br><br><br>
 ---
 
