@@ -65,13 +65,14 @@ You can read about my experience on LinkedIn:
 <img src="./icons/linkedin.png" alt="linkedin" width="45" height="45"/> </a>
 
 ---
-
-<a href="https://t.me/openlakekz" target="_blank" rel="noreferrer"> 
-<img src="./icons/channel.png" alt="telegram-channel" width="60" height="60"/> </a>
-<a href="https://www.tiktok.com/@open.lake" target="_blank" rel="noreferrer"> 
-<img src="./icons/tiktok.png" alt="tiktok" width="60" height="60"/> </a>
-<a href="https://t.me/openlakekz" target="_blank" rel="noreferrer"> 
-<img src="./icons/notion.png" alt="notion" width="60" height="60"/> </a>
+<div align="center">
+  <a href="https://t.me/openlakekz" target="_blank" rel="noreferrer"> 
+  <img src="./icons/channel.png" alt="telegram-channel" width="60" height="60"/> </a>
+  <a href="https://www.tiktok.com/@open.lake" target="_blank" rel="noreferrer"> 
+  <img src="./icons/tiktok.png" alt="tiktok" width="60" height="60"/> </a>
+  <a href="https://t.me/openlakekz" target="_blank" rel="noreferrer"> 
+  <img src="./icons/notion.png" alt="notion" width="60" height="60"/> </a>
+</div>
 
 </div>
 
