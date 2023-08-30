@@ -14,8 +14,14 @@ Revenge is a hobby. I teach programming to teenagers and motivate them to learn.
 
 
 You can read about my experience on [Linkedin](https://www.linkedin.com/in/eugene-tyan/)
-You can find some of my work
-<img src="https://gists-readme.yizack.com/api?user={jonotyan}">
+
+<details><summary>Some of my work</summary>
+
+   1. First
+   2. Second
+   3. etc
+
+</details>
 
 ---
 ### You can sponsor my work through 
